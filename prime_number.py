@@ -1,3 +1,5 @@
+print("thankyou")
+
 def is_prime_number(x):
     for num in range(2, x):
         if x % num == 0:

@@ -1,3 +1,5 @@
+print("sorry")
+
 def maxProfit_bruteforce (prices):
    max_price = 0
 
